@@ -1,6 +1,5 @@
-<h3>Interval Timer</h3>
-<hr/>
+# Interval Timer
 
-Temporizador con cuenta atrás para controlar intervalos y lapsos de tiempo en tus entrenamientos
+Countdown timer to control intervals and time lapses in your workouts.
 
-<a href="https://salvacam.github.io/intervalTimer" target="_blank">Interval Timer</a>
+[Interval Timer](https://salvacam.github.io/intervalTimer)

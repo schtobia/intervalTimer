@@ -1,15 +1,14 @@
 {
   "version": "0.4c",
-    "name":"Interval Timer",
-    "description":"Chronometer",
-    "launch_path" : "/index.html",
-    "icons":{
-      "128": "img/icon-128x128.png"
-    },  
-  "permissions": {
+  "name": "Interval Timer",
+  "description": "Chronometer",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "img/icon-128x128.png"
   },
+  "permissions": {},
   "developer": {
-        "name":"Salvador Camacho Soto",
-        "url":"http://salvacam.js.org"
-    }
+    "name": "Salvador Camacho Soto",
+    "url": "http://salvacam.js.org"
+  }
 }
